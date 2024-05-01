@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Dr.Joy](https://drjoy.vn/) where we are developing an application for managing doctor schedules in hospitals in Japan.
 - 🌱 I’m passionate about [iOS](https://developer.apple.com/documentation/technologies) and [Golang](https://go.dev/).
-- 📝 I’m aiming to write **one article per week** starting from May 2024.
+- 📝 I’m aiming to write **one article per week** on my [blog](https://letuan9x.wordpress.com/).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
 
 <div align="center">
