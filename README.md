@@ -11,9 +11,15 @@
 - 📝 I’m aiming to write **one article per week** starting from May 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
 
+<div align="center">
+    
 ## 💻 My Tech Stack:
 
 [![Swift, iOS, Dart, Flutter, Golang, Docker](https://skillicons.dev/icons?i=swift,apple,dart,flutter,go,docker)](https://skillicons.dev)
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🏆 My Stats:
 
@@ -21,3 +27,4 @@
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=letuan9x&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letuan9x&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
+</div>
