@@ -4,6 +4,11 @@
 
 <h1>Hello World, I'm Le Tuan 👋</h1>
 
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tdev9x) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/le-tuan-a8060b203/)) &nbsp;
+[![Blog](https://skillicons.dev/icons?i=wordpress)](https://letuan9x.wordpress.com/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tdev9x@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
 </div>
 
 - 🔭 I’m currently working at [Dr.Joy](https://drjoy.vn/) where we are developing an application for managing doctor schedules in hospitals in Japan.
@@ -24,7 +29,7 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=letuan9x&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letuan9x&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=letuan9x&show_icons=true&count_private=true&theme=light" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letuan9x&layout=compact&theme=light" />&nbsp;&nbsp;
 </p>
 </div>
