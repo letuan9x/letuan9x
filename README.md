@@ -20,7 +20,7 @@
     
 ## 💻 My Tech Stack:
 
-[![Swift, iOS, Dart, Flutter, Golang, Docker](https://skillicons.dev/icons?i=swift,apple,dart,flutter,go,docker)](https://skillicons.dev)
+[![Swift, iOS, Dart, Flutter, Golang, MySQL, Mongo, Docker](https://skillicons.dev/icons?i=swift,apple,dart,flutter,go,mysql,mongo,docker)](https://skillicons.dev)
 
 ## 💡 A Quote:
 
