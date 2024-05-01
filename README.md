@@ -15,7 +15,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Swift, SwiftUI, Golang](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Swift, iOS, Dart, Flutter, Golang, Docker](https://skillicons.dev/icons?i=swift,apple,dart,flutter,go,docker)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
