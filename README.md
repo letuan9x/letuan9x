@@ -1,17 +1,15 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/letuan9x)
+[![Hello World, I'm Le Tuan!](assets/header.gif)](https://github.com/letuan9x)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tdev9x) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/le-tuan-a8060b203/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tdev9x@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+<h1>Hello World, I'm Le Tuan 👋</h1>
 
 </div>
 
 - 🔭 I’m currently working at [Dr.Joy](https://drjoy.vn/) where we are developing an application for managing doctor schedules in hospitals in Japan.
 - 🌱 I’m passionate about [iOS](https://developer.apple.com/documentation/technologies) and [Golang](https://go.dev/).
 - 📝 I’m aiming to write **one article per week** starting from May 2024.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
 
 ## 💻 My Tech Stack:
 
