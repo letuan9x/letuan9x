@@ -11,8 +11,8 @@
 
 </div>
 
-- 🔭 I’m currently working at [Dr.Joy](https://drjoy.vn/) where we are developing an application for managing doctor schedules in hospitals in Japan.
-- 🌱 I’m passionate about [iOS](https://developer.apple.com/documentation/technologies) and [Golang](https://go.dev/).
+- 🔭 I am an iOS developer with 4 years of experience. My main job is to develop, maintain and deploy iOS applications to the App Store.
+- 🌱 Besides [iOS](https://developer.apple.com/documentation/technologies), I also have a passion for Backend development and the [Golang](https://go.dev/) programming language.
 - 📝 I’m aiming to write **one article per week** on my [blog](https://letuan9x.wordpress.com/).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
 
@@ -20,7 +20,7 @@
     
 ## 💻 My Tech Stack:
 
-[![Swift, iOS, Dart, Flutter, Golang, MySQL, Mongo, Docker](https://skillicons.dev/icons?i=swift,apple,dart,flutter,go,mysql,mongo,docker)](https://skillicons.dev)
+[![Swift, iOS, Golang, Firebase, Mongo, Docker](https://skillicons.dev/icons?i=swift,apple,go,firebase,mongo,docker)](https://skillicons.dev)
 
 ## 💡 A Quote:
 
